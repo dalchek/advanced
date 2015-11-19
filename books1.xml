@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Script 13.2 - books1.xml -->
+<collection>
+	<book>
+		<title edition="3">PHP Advanced and Object-Oriented Programming: Visual QuickProGuide</title>
+		<author>Larry Ullman</author>
+		<year>2012</year>
+		<chapter number="12">PHP&appos;s Command-Line interface</chapter>
+		<chapter number="13">XML and PHP</chapter>
+		<chapter number="14">Debugging, Testing, and Performance</chapter>
+		<cover filename="phpvqp3.php" />
+	</book>
+	<book>
+		<title>Modern JavaScript: Develop and Design</title>
+		<author>Larry Ullman</author>
+		<year>2012</year>
+		<pages>612</pages>
+		<chapter number="1" pages="24">(Re-)Introducing javaScript</chapter>
+		<chapter number="2" pages="32">JavaScript in Acrion</chapter>
+		<chapter number="3" pages="34">Tools and Trade</chapter>
+	</book>
+	<book>
+		<title>C++ Programming: visual quickStart Guide</title>
+		<author>Larry Ullman</author>
+		<author>Andreas Signer</author>
+		<year>2006</year>
+		<pages>500</pages>
+		<chapter number="12">Namespace &amp; Modularization</chapter>
+	</book>
+</collection>

@@ -1,0 +1,2 @@
+Add this quote at the second line in file quote.txt
+Add this quote
