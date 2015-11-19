@@ -1,4 +1,4 @@
-<?php // test komitovanja
+<?php // test komitovanja i vracanje natrag
 phpinfo();
 ?>
 
